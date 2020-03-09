@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hedge.obj-f1f25b470fd41854e15968a54fdb2d7f.mesh"
+
+[deps]
+
+files=[ "res://.import/hedge.obj-f1f25b470fd41854e15968a54fdb2d7f.mesh" ]
+
+source_file="res://ฉาก/Models/OBJ format/hedge.obj"
+dest_files=[ "res://.import/hedge.obj-f1f25b470fd41854e15968a54fdb2d7f.mesh", "res://.import/hedge.obj-f1f25b470fd41854e15968a54fdb2d7f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

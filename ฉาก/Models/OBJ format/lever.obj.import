@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lever.obj-464d3e6aa03970177793fddfa08232ea.mesh"
+
+[deps]
+
+files=[ "res://.import/lever.obj-464d3e6aa03970177793fddfa08232ea.mesh" ]
+
+source_file="res://ฉาก/Models/OBJ format/lever.obj"
+dest_files=[ "res://.import/lever.obj-464d3e6aa03970177793fddfa08232ea.mesh", "res://.import/lever.obj-464d3e6aa03970177793fddfa08232ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

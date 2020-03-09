@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/key.obj-cec8c75449d503faa761f2800522414f.mesh"
+
+[deps]
+
+files=[ "res://.import/key.obj-cec8c75449d503faa761f2800522414f.mesh" ]
+
+source_file="res://ฉาก/Models/OBJ format/key.obj"
+dest_files=[ "res://.import/key.obj-cec8c75449d503faa761f2800522414f.mesh", "res://.import/key.obj-cec8c75449d503faa761f2800522414f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
