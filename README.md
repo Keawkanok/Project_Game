@@ -1,3 +1,5 @@
+# ถ้าจะเล่นเกม ubu.tscn ต้อง search ubu.tscn 
+
 # Godot 3 FPS Tutorial
 
 This is the repository for the Godot 3 FPS tutorial.
