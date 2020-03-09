@@ -1,4 +1,4 @@
-# ถ้าจะเล่นเกม ubu.tscn ต้อง search ubu.tscn 
+# ถ้าจะเล่นเกม ubu.tscn ต้อง search ubu.tscn ใน Godot ด้านล่าง
 
 # Godot 3 FPS Tutorial
 
